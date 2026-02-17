@@ -1,0 +1,12 @@
+{
+    "id": "BP-0036",
+    "familia": "BLOQUES PATRON",
+    "descripcion": "Bloque Patrón Acero 180mm",
+    "valor_nominal": 180,
+    "incertidumbre": 0.000273,
+    "material": "Acero templado",
+    "clase": "0",
+    "periodicidad_meses": 24,
+    "fecha_ultima_calibracion": "2025-03-09",
+    "certificado": "CERT-BP-0036-2025"
+}

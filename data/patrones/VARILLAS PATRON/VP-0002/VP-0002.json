@@ -1,0 +1,12 @@
+{
+    "id": "VP-0002",
+    "familia": "VARILLAS PATRON",
+    "descripcion": "Varilla Patrón Acero 80mm",
+    "valor_nominal": 80,
+    "incertidumbre": 0.000197,
+    "material": "Acero templado",
+    "clase": "0",
+    "periodicidad_meses": 24,
+    "fecha_ultima_calibracion": "2024-04-02",
+    "certificado": "CERT-VP-0002-2025"
+}

@@ -1,0 +1,12 @@
+{
+    "id": "BP-0018",
+    "familia": "BLOQUES PATRON",
+    "descripcion": "Bloque Patrón Acero 90mm",
+    "valor_nominal": 90,
+    "incertidumbre": 0.00037,
+    "material": "Acero templado",
+    "clase": "0",
+    "periodicidad_meses": 24,
+    "fecha_ultima_calibracion": "2024-08-27",
+    "certificado": "CERT-BP-0018-2025"
+}

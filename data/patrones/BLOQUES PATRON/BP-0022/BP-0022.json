@@ -1,0 +1,12 @@
+{
+    "id": "BP-0022",
+    "familia": "BLOQUES PATRON",
+    "descripcion": "Bloque Patrón Acero 110mm",
+    "valor_nominal": 110,
+    "incertidumbre": 0.000381,
+    "material": "Acero templado",
+    "clase": "0",
+    "periodicidad_meses": 24,
+    "fecha_ultima_calibracion": "2026-01-18",
+    "certificado": "CERT-BP-0022-2025"
+}

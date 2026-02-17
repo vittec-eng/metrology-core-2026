@@ -1,0 +1,317 @@
+[
+    {
+        "id": "BP-0007",
+        "descripcion": "Bloque Patrón Acero 35mm",
+        "vencimiento": "2026-02-18",
+        "familia": "BLOQUES PATRON",
+        "path": "data\\patrones\\BLOQUES PATRON\\BP-0007\\BP-0007.json"
+    },
+    {
+        "id": "BP-0028",
+        "descripcion": "Bloque Patrón Acero 140mm",
+        "vencimiento": "2026-03-22",
+        "familia": "BLOQUES PATRON",
+        "path": "data\\patrones\\BLOQUES PATRON\\BP-0028\\BP-0028.json"
+    },
+    {
+        "id": "VP-0002",
+        "descripcion": "Varilla Patrón Acero 80mm",
+        "vencimiento": "2026-04-02",
+        "familia": "VARILLAS PATRON",
+        "path": "data\\patrones\\VARILLAS PATRON\\VP-0002\\VP-0002.json"
+    },
+    {
+        "id": "BP-0035",
+        "descripcion": "Bloque Patrón Acero 175mm",
+        "vencimiento": "2026-04-04",
+        "familia": "BLOQUES PATRON",
+        "path": "data\\patrones\\BLOQUES PATRON\\BP-0035\\BP-0035.json"
+    },
+    {
+        "id": "BP-0033",
+        "descripcion": "Bloque Patrón Acero 165mm",
+        "vencimiento": "2026-05-01",
+        "familia": "BLOQUES PATRON",
+        "path": "data\\patrones\\BLOQUES PATRON\\BP-0033\\BP-0033.json"
+    },
+    {
+        "id": "BP-0023",
+        "descripcion": "Bloque Patrón Acero 115mm",
+        "vencimiento": "2026-05-26",
+        "familia": "BLOQUES PATRON",
+        "path": "data\\patrones\\BLOQUES PATRON\\BP-0023\\BP-0023.json"
+    },
+    {
+        "id": "VP-0004",
+        "descripcion": "Varilla Patrón Acero 160mm",
+        "vencimiento": "2026-06-23",
+        "familia": "VARILLAS PATRON",
+        "path": "data\\patrones\\VARILLAS PATRON\\VP-0004\\VP-0004.json"
+    },
+    {
+        "id": "VP-0001",
+        "descripcion": "Varilla Patrón Acero 40mm",
+        "vencimiento": "2026-06-26",
+        "familia": "VARILLAS PATRON",
+        "path": "data\\patrones\\VARILLAS PATRON\\VP-0001\\VP-0001.json"
+    },
+    {
+        "id": "BP-0005",
+        "descripcion": "Bloque Patrón Acero 25mm",
+        "vencimiento": "2026-07-11",
+        "familia": "BLOQUES PATRON",
+        "path": "data\\patrones\\BLOQUES PATRON\\BP-0005\\BP-0005.json"
+    },
+    {
+        "id": "BP-0012",
+        "descripcion": "Bloque Patrón Acero 60mm",
+        "vencimiento": "2026-07-24",
+        "familia": "BLOQUES PATRON",
+        "path": "data\\patrones\\BLOQUES PATRON\\BP-0012\\BP-0012.json"
+    },
+    {
+        "id": "VP-0003",
+        "descripcion": "Varilla Patrón Acero 120mm",
+        "vencimiento": "2026-07-29",
+        "familia": "VARILLAS PATRON",
+        "path": "data\\patrones\\VARILLAS PATRON\\VP-0003\\VP-0003.json"
+    },
+    {
+        "id": "BP-0038",
+        "descripcion": "Bloque Patrón Acero 190mm",
+        "vencimiento": "2026-08-09",
+        "familia": "BLOQUES PATRON",
+        "path": "data\\patrones\\BLOQUES PATRON\\BP-0038\\BP-0038.json"
+    },
+    {
+        "id": "BP-0001",
+        "descripcion": "Bloque Patrón Acero 5mm",
+        "vencimiento": "2026-08-18",
+        "familia": "BLOQUES PATRON",
+        "path": "data\\patrones\\BLOQUES PATRON\\BP-0001\\BP-0001.json"
+    },
+    {
+        "id": "BP-0018",
+        "descripcion": "Bloque Patrón Acero 90mm",
+        "vencimiento": "2026-08-27",
+        "familia": "BLOQUES PATRON",
+        "path": "data\\patrones\\BLOQUES PATRON\\BP-0018\\BP-0018.json"
+    },
+    {
+        "id": "BP-0016",
+        "descripcion": "Bloque Patrón Acero 80mm",
+        "vencimiento": "2026-09-13",
+        "familia": "BLOQUES PATRON",
+        "path": "data\\patrones\\BLOQUES PATRON\\BP-0016\\BP-0016.json"
+    },
+    {
+        "id": "BP-0014",
+        "descripcion": "Bloque Patrón Acero 70mm",
+        "vencimiento": "2026-09-29",
+        "familia": "BLOQUES PATRON",
+        "path": "data\\patrones\\BLOQUES PATRON\\BP-0014\\BP-0014.json"
+    },
+    {
+        "id": "BP-0019",
+        "descripcion": "Bloque Patrón Acero 95mm",
+        "vencimiento": "2026-10-09",
+        "familia": "BLOQUES PATRON",
+        "path": "data\\patrones\\BLOQUES PATRON\\BP-0019\\BP-0019.json"
+    },
+    {
+        "id": "BP-0010",
+        "descripcion": "Bloque Patrón Acero 50mm",
+        "vencimiento": "2026-11-28",
+        "familia": "BLOQUES PATRON",
+        "path": "data\\patrones\\BLOQUES PATRON\\BP-0010\\BP-0010.json"
+    },
+    {
+        "id": "BP-0032",
+        "descripcion": "Bloque Patrón Acero 160mm",
+        "vencimiento": "2027-01-03",
+        "familia": "BLOQUES PATRON",
+        "path": "data\\patrones\\BLOQUES PATRON\\BP-0032\\BP-0032.json"
+    },
+    {
+        "id": "BP-0040",
+        "descripcion": "Bloque Patrón Acero 200mm",
+        "vencimiento": "2027-02-06",
+        "familia": "BLOQUES PATRON",
+        "path": "data\\patrones\\BLOQUES PATRON\\BP-0040\\BP-0040.json"
+    },
+    {
+        "id": "BP-0026",
+        "descripcion": "Bloque Patrón Acero 130mm",
+        "vencimiento": "2027-02-26",
+        "familia": "BLOQUES PATRON",
+        "path": "data\\patrones\\BLOQUES PATRON\\BP-0026\\BP-0026.json"
+    },
+    {
+        "id": "BP-0036",
+        "descripcion": "Bloque Patrón Acero 180mm",
+        "vencimiento": "2027-03-09",
+        "familia": "BLOQUES PATRON",
+        "path": "data\\patrones\\BLOQUES PATRON\\BP-0036\\BP-0036.json"
+    },
+    {
+        "id": "BP-0020",
+        "descripcion": "Bloque Patrón Acero 100mm",
+        "vencimiento": "2027-03-13",
+        "familia": "BLOQUES PATRON",
+        "path": "data\\patrones\\BLOQUES PATRON\\BP-0020\\BP-0020.json"
+    },
+    {
+        "id": "BP-0003",
+        "descripcion": "Bloque Patrón Acero 15mm",
+        "vencimiento": "2027-03-26",
+        "familia": "BLOQUES PATRON",
+        "path": "data\\patrones\\BLOQUES PATRON\\BP-0003\\BP-0003.json"
+    },
+    {
+        "id": "BP-0008",
+        "descripcion": "Bloque Patrón Acero 40mm",
+        "vencimiento": "2027-04-07",
+        "familia": "BLOQUES PATRON",
+        "path": "data\\patrones\\BLOQUES PATRON\\BP-0008\\BP-0008.json"
+    },
+    {
+        "id": "BP-0037",
+        "descripcion": "Bloque Patrón Acero 185mm",
+        "vencimiento": "2027-04-08",
+        "familia": "BLOQUES PATRON",
+        "path": "data\\patrones\\BLOQUES PATRON\\BP-0037\\BP-0037.json"
+    },
+    {
+        "id": "BP-0034",
+        "descripcion": "Bloque Patrón Acero 170mm",
+        "vencimiento": "2027-04-16",
+        "familia": "BLOQUES PATRON",
+        "path": "data\\patrones\\BLOQUES PATRON\\BP-0034\\BP-0034.json"
+    },
+    {
+        "id": "BP-0017",
+        "descripcion": "Bloque Patrón Acero 85mm",
+        "vencimiento": "2027-04-25",
+        "familia": "BLOQUES PATRON",
+        "path": "data\\patrones\\BLOQUES PATRON\\BP-0017\\BP-0017.json"
+    },
+    {
+        "id": "BP-0021",
+        "descripcion": "Bloque Patrón Acero 105mm",
+        "vencimiento": "2027-04-27",
+        "familia": "BLOQUES PATRON",
+        "path": "data\\patrones\\BLOQUES PATRON\\BP-0021\\BP-0021.json"
+    },
+    {
+        "id": "BP-0013",
+        "descripcion": "Bloque Patrón Acero 65mm",
+        "vencimiento": "2027-04-29",
+        "familia": "BLOQUES PATRON",
+        "path": "data\\patrones\\BLOQUES PATRON\\BP-0013\\BP-0013.json"
+    },
+    {
+        "id": "BP-0004",
+        "descripcion": "Bloque Patrón Acero 20mm",
+        "vencimiento": "2027-05-11",
+        "familia": "BLOQUES PATRON",
+        "path": "data\\patrones\\BLOQUES PATRON\\BP-0004\\BP-0004.json"
+    },
+    {
+        "id": "BP-0002",
+        "descripcion": "Bloque Patrón Acero 10mm",
+        "vencimiento": "2027-05-17",
+        "familia": "BLOQUES PATRON",
+        "path": "data\\patrones\\BLOQUES PATRON\\BP-0002\\BP-0002.json"
+    },
+    {
+        "id": "BP-0011",
+        "descripcion": "Bloque Patrón Acero 55mm",
+        "vencimiento": "2027-05-19",
+        "familia": "BLOQUES PATRON",
+        "path": "data\\patrones\\BLOQUES PATRON\\BP-0011\\BP-0011.json"
+    },
+    {
+        "id": "VP-0005",
+        "descripcion": "Varilla Patrón Acero 200mm",
+        "vencimiento": "2027-06-20",
+        "familia": "VARILLAS PATRON",
+        "path": "data\\patrones\\VARILLAS PATRON\\VP-0005\\VP-0005.json"
+    },
+    {
+        "id": "BP-0025",
+        "descripcion": "Bloque Patrón Acero 125mm",
+        "vencimiento": "2027-07-10",
+        "familia": "BLOQUES PATRON",
+        "path": "data\\patrones\\BLOQUES PATRON\\BP-0025\\BP-0025.json"
+    },
+    {
+        "id": "BP-0039",
+        "descripcion": "Bloque Patrón Acero 195mm",
+        "vencimiento": "2027-08-07",
+        "familia": "BLOQUES PATRON",
+        "path": "data\\patrones\\BLOQUES PATRON\\BP-0039\\BP-0039.json"
+    },
+    {
+        "id": "BP-0027",
+        "descripcion": "Bloque Patrón Acero 135mm",
+        "vencimiento": "2027-08-10",
+        "familia": "BLOQUES PATRON",
+        "path": "data\\patrones\\BLOQUES PATRON\\BP-0027\\BP-0027.json"
+    },
+    {
+        "id": "BP-0024",
+        "descripcion": "Bloque Patrón Acero 120mm",
+        "vencimiento": "2027-09-05",
+        "familia": "BLOQUES PATRON",
+        "path": "data\\patrones\\BLOQUES PATRON\\BP-0024\\BP-0024.json"
+    },
+    {
+        "id": "BP-0031",
+        "descripcion": "Bloque Patrón Acero 155mm",
+        "vencimiento": "2027-09-19",
+        "familia": "BLOQUES PATRON",
+        "path": "data\\patrones\\BLOQUES PATRON\\BP-0031\\BP-0031.json"
+    },
+    {
+        "id": "BP-0009",
+        "descripcion": "Bloque Patrón Acero 45mm",
+        "vencimiento": "2027-09-26",
+        "familia": "BLOQUES PATRON",
+        "path": "data\\patrones\\BLOQUES PATRON\\BP-0009\\BP-0009.json"
+    },
+    {
+        "id": "BP-0029",
+        "descripcion": "Bloque Patrón Acero 145mm",
+        "vencimiento": "2027-10-27",
+        "familia": "BLOQUES PATRON",
+        "path": "data\\patrones\\BLOQUES PATRON\\BP-0029\\BP-0029.json"
+    },
+    {
+        "id": "BP-0006",
+        "descripcion": "Bloque Patrón Acero 30mm",
+        "vencimiento": "2027-12-13",
+        "familia": "BLOQUES PATRON",
+        "path": "data\\patrones\\BLOQUES PATRON\\BP-0006\\BP-0006.json"
+    },
+    {
+        "id": "BP-0015",
+        "descripcion": "Bloque Patrón Acero 75mm",
+        "vencimiento": "2028-01-16",
+        "familia": "BLOQUES PATRON",
+        "path": "data\\patrones\\BLOQUES PATRON\\BP-0015\\BP-0015.json"
+    },
+    {
+        "id": "BP-0022",
+        "descripcion": "Bloque Patrón Acero 110mm",
+        "vencimiento": "2028-01-18",
+        "familia": "BLOQUES PATRON",
+        "path": "data\\patrones\\BLOQUES PATRON\\BP-0022\\BP-0022.json"
+    },
+    {
+        "id": "BP-0030",
+        "descripcion": "Bloque Patrón Acero 150mm",
+        "vencimiento": "2028-02-06",
+        "familia": "BLOQUES PATRON",
+        "path": "data\\patrones\\BLOQUES PATRON\\BP-0030\\BP-0030.json"
+    }
+]

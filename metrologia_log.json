@@ -1,0 +1,63 @@
+[
+  {
+    "session_number": "CREACION_INICIAL",
+    "start_time": "2026-02-17T15:31:40",
+    "user": "SYSTEM",
+    "events": [
+      {
+        "time": "15:31:40",
+        "action": "SECURITY: Sistema inicializado - Archivo de log creado"
+      }
+    ]
+  },
+  {
+    "session_number": "ADMIN_20260217_153148",
+    "start_time": "2026-02-17T15:31:40",
+    "user": "SYSTEM",
+    "events": [
+      {
+        "time": "15:31:48",
+        "action": "SECURITY: Vault inexistente regenerado por administrador Administrador de Calidad"
+      },
+      {
+        "time": "15:31:48",
+        "action": "SECURITY: Vault regenerado completamente (58 elementos) por administrador Administrador de Calidad"
+      },
+      {
+        "time": "15:31:53",
+        "action": "SYSTEM: App iniciada"
+      },
+      {
+        "time": "15:31:53",
+        "action": "AUTH: Acceso con rol: tecnicos"
+      },
+      {
+        "time": "15:31:54",
+        "action": "NAV: Acceso a Login → Panel Principal"
+      },
+      {
+        "time": "15:32:04",
+        "action": "SYSTEM: [CERRANDO SESIÓN] Hash vault: 9e35d288a3891d2a... (total: 58 elementos)"
+      }
+    ]
+  },
+  {
+    "session_number": 2,
+    "start_time": "2026-02-17T15:32:48",
+    "user": "admin",
+    "events": [
+      {
+        "time": "15:32:48",
+        "action": "SYSTEM: App iniciada"
+      },
+      {
+        "time": "15:32:48",
+        "action": "AUTH: Acceso con rol: tecnicos"
+      },
+      {
+        "time": "15:32:52",
+        "action": "SYSTEM: [CERRANDO SESIÓN] Hash vault: dd09143c65077bb7... (total: 58 elementos)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,12 @@
+{
+    "id": "BP-0035",
+    "familia": "BLOQUES PATRON",
+    "descripcion": "Bloque Patrón Acero 175mm",
+    "valor_nominal": 175,
+    "incertidumbre": 0.000141,
+    "material": "Acero templado",
+    "clase": "0",
+    "periodicidad_meses": 24,
+    "fecha_ultima_calibracion": "2024-04-04",
+    "certificado": "CERT-BP-0035-2025"
+}

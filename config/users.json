@@ -1,0 +1,21 @@
+{
+    "tecnicos": [
+        {
+            "username": "admin",
+            "password": "encrypted:Z0FBQUFBQnBqZVZKSGxHVFpicV94OGlTQ043Q21BTjgyQ3lrVmUxRFlkWjBmWEVlQVpJRUNxZHVDSnIyVVVwQmxvX0ZvS01LMDVnX2s4UmtRcnVIM3ozdmlfdGJmX25hYkE9PQ==",
+            "nombre_completo": "Administrador de Calidad"
+        },
+        {
+            "username": "Gemini",
+            "password": "encrypted:Z0FBQUFBQnBqZVZKTDdYRXZDQWhVSGNGeFA0cXd4ekdvMjJyeGJvblNfcXY4V3VkaUhrVnlYXy02OEt1b19icXljRHZsTFVFRUpOcmFXMEtPeUwxdmd5VkpHeS1LcGl1OXc9PQ==",
+            "nombre_completo": "Gemini"
+        }
+    ],
+    "visor": [
+        {
+            "username": "Claude",
+            "password": "encrypted:Z0FBQUFBQnBqZVZKQ1cxUkdzNDJKaDkzdm5XWU13N1VHSWY1X2sxUXdRUm1QSEQ2bldPRjI2eUxvSUxBWXlCUHdiRE03dkxIcm9hX0NNUFN1YVF0YlVpN0JaSXhROUd2OVE9PQ==",
+            "nombre_completo": "Claude"
+        }
+    ]
+}

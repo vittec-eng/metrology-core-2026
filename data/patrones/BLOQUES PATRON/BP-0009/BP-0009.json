@@ -1,0 +1,12 @@
+{
+    "id": "BP-0009",
+    "familia": "BLOQUES PATRON",
+    "descripcion": "Bloque Patrón Acero 45mm",
+    "valor_nominal": 45,
+    "incertidumbre": 0.000424,
+    "material": "Acero templado",
+    "clase": "0",
+    "periodicidad_meses": 24,
+    "fecha_ultima_calibracion": "2025-09-26",
+    "certificado": "CERT-BP-0009-2025"
+}

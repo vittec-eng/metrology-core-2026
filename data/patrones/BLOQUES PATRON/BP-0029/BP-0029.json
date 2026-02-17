@@ -1,0 +1,12 @@
+{
+    "id": "BP-0029",
+    "familia": "BLOQUES PATRON",
+    "descripcion": "Bloque Patrón Acero 145mm",
+    "valor_nominal": 145,
+    "incertidumbre": 0.000171,
+    "material": "Acero templado",
+    "clase": "0",
+    "periodicidad_meses": 24,
+    "fecha_ultima_calibracion": "2025-10-27",
+    "certificado": "CERT-BP-0029-2025"
+}

@@ -1,0 +1,93 @@
+[
+    {
+        "id": "ME-0001",
+        "descripcion": "Micrómetro de Exteriores 0-25mm #1",
+        "vencimiento": "9999-12-31",
+        "familia": "MICROMETROS DE EXTERIORES",
+        "path": "data\\instrumentos\\MICROMETROS DE EXTERIORES\\ME-0001\\ME-0001.json"
+    },
+    {
+        "id": "ME-0002",
+        "descripcion": "Micrómetro de Exteriores 0-25mm #2",
+        "vencimiento": "9999-12-31",
+        "familia": "MICROMETROS DE EXTERIORES",
+        "path": "data\\instrumentos\\MICROMETROS DE EXTERIORES\\ME-0002\\ME-0002.json"
+    },
+    {
+        "id": "ME-0003",
+        "descripcion": "Micrómetro de Exteriores 0-25mm #3",
+        "vencimiento": "9999-12-31",
+        "familia": "MICROMETROS DE EXTERIORES",
+        "path": "data\\instrumentos\\MICROMETROS DE EXTERIORES\\ME-0003\\ME-0003.json"
+    },
+    {
+        "id": "ME-0004",
+        "descripcion": "Micrómetro de Exteriores 0-25mm #4",
+        "vencimiento": "9999-12-31",
+        "familia": "MICROMETROS DE EXTERIORES",
+        "path": "data\\instrumentos\\MICROMETROS DE EXTERIORES\\ME-0004\\ME-0004.json"
+    },
+    {
+        "id": "ME-0005",
+        "descripcion": "Micrómetro de Exteriores 0-25mm #5",
+        "vencimiento": "9999-12-31",
+        "familia": "MICROMETROS DE EXTERIORES",
+        "path": "data\\instrumentos\\MICROMETROS DE EXTERIORES\\ME-0005\\ME-0005.json"
+    },
+    {
+        "id": "ME-0006",
+        "descripcion": "Micrómetro de Exteriores 0-25mm #6",
+        "vencimiento": "9999-12-31",
+        "familia": "MICROMETROS DE EXTERIORES",
+        "path": "data\\instrumentos\\MICROMETROS DE EXTERIORES\\ME-0006\\ME-0006.json"
+    },
+    {
+        "id": "ME-0007",
+        "descripcion": "Micrómetro de Exteriores 0-25mm #7",
+        "vencimiento": "9999-12-31",
+        "familia": "MICROMETROS DE EXTERIORES",
+        "path": "data\\instrumentos\\MICROMETROS DE EXTERIORES\\ME-0007\\ME-0007.json"
+    },
+    {
+        "id": "ME-0008",
+        "descripcion": "Micrómetro de Exteriores 0-25mm #8",
+        "vencimiento": "9999-12-31",
+        "familia": "MICROMETROS DE EXTERIORES",
+        "path": "data\\instrumentos\\MICROMETROS DE EXTERIORES\\ME-0008\\ME-0008.json"
+    },
+    {
+        "id": "PR-001",
+        "descripcion": "Pie de Rey 0-150mm #1",
+        "vencimiento": "9999-12-31",
+        "familia": "PIES DE REY",
+        "path": "data\\instrumentos\\PIES DE REY\\PR-001\\PR-001.json"
+    },
+    {
+        "id": "PR-002",
+        "descripcion": "Pie de Rey 0-150mm #2",
+        "vencimiento": "9999-12-31",
+        "familia": "PIES DE REY",
+        "path": "data\\instrumentos\\PIES DE REY\\PR-002\\PR-002.json"
+    },
+    {
+        "id": "PR-003",
+        "descripcion": "Pie de Rey 0-150mm #3",
+        "vencimiento": "9999-12-31",
+        "familia": "PIES DE REY",
+        "path": "data\\instrumentos\\PIES DE REY\\PR-003\\PR-003.json"
+    },
+    {
+        "id": "PR-004",
+        "descripcion": "Pie de Rey 0-150mm #4",
+        "vencimiento": "9999-12-31",
+        "familia": "PIES DE REY",
+        "path": "data\\instrumentos\\PIES DE REY\\PR-004\\PR-004.json"
+    },
+    {
+        "id": "PR-005",
+        "descripcion": "Pie de Rey 0-150mm #5",
+        "vencimiento": "9999-12-31",
+        "familia": "PIES DE REY",
+        "path": "data\\instrumentos\\PIES DE REY\\PR-005\\PR-005.json"
+    }
+]

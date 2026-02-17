@@ -1,0 +1,26 @@
+# PyQt6 - Framework principal de interfaz gráfica
+PyQt6==6.6.1
+
+# fpdf2 - Generación de archivos PDF
+fpdf2==2.7.6
+
+# python-dateutil - Manejo avanzado de fechas
+python-dateutil==2.8.2
+
+# matplotlib - Generación de gráficos para análisis de calibración
+matplotlib==3.8.2
+
+# numpy - Cálculos numéricos para gráficos y estadísticas
+numpy==1.26.2
+
+# qtawesome - Iconos para la interfaz PyQt6
+qtawesome==1.3.0
+
+# statistics - Módulo estándar (no requiere instalación)
+# hashlib - Módulo estándar (no requiere instalación)
+# json - Módulo estándar (no requiere instalación)
+# os - Módulo estándar (no requiere instalación)
+# sys - Módulo estándar (no requiere instalación)
+# datetime - Módulo estándar (no requiere instalación)
+# shutil - Módulo estándar (no requiere instalación)
+# unicodedata - Módulo estándar (no requiere instalación)

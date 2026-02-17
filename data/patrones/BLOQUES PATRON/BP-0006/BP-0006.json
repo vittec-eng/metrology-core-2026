@@ -1,0 +1,12 @@
+{
+    "id": "BP-0006",
+    "familia": "BLOQUES PATRON",
+    "descripcion": "Bloque Patrón Acero 30mm",
+    "valor_nominal": 30,
+    "incertidumbre": 0.00047,
+    "material": "Acero templado",
+    "clase": "0",
+    "periodicidad_meses": 24,
+    "fecha_ultima_calibracion": "2025-12-13",
+    "certificado": "CERT-BP-0006-2025"
+}

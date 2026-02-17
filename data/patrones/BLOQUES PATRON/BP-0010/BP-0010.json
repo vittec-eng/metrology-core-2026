@@ -1,0 +1,12 @@
+{
+    "id": "BP-0010",
+    "familia": "BLOQUES PATRON",
+    "descripcion": "Bloque Patrón Acero 50mm",
+    "valor_nominal": 50,
+    "incertidumbre": 0.000296,
+    "material": "Acero templado",
+    "clase": "0",
+    "periodicidad_meses": 24,
+    "fecha_ultima_calibracion": "2024-11-28",
+    "certificado": "CERT-BP-0010-2025"
+}

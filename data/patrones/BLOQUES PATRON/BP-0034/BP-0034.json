@@ -1,0 +1,12 @@
+{
+    "id": "BP-0034",
+    "familia": "BLOQUES PATRON",
+    "descripcion": "Bloque Patrón Acero 170mm",
+    "valor_nominal": 170,
+    "incertidumbre": 0.000422,
+    "material": "Acero templado",
+    "clase": "0",
+    "periodicidad_meses": 24,
+    "fecha_ultima_calibracion": "2025-04-16",
+    "certificado": "CERT-BP-0034-2025"
+}

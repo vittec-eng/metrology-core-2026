@@ -1,0 +1,139 @@
+{
+    "id": "PR-005",
+    "familia": "PIES DE REY",
+    "descripcion": "Pie de Rey 0-150mm #5",
+    "rango_min": "0",
+    "rango_max": "150",
+    "resolucion": 0.01,
+    "periodicidad_meses": 12,
+    "fecha_compra": "2026-02-17",
+    "fecha_ultima_calibracion": "",
+    "patrones_sugeridos": "BLOQUES PATRON",
+    "incertidumbre_elemento": 0.02,
+    "historial": [
+        {
+            "fecha_calibracion": "2026-01-21 15:07",
+            "responsable": "tecnico1",
+            "puntos": [
+                {
+                    "id_patron": "BP-0011",
+                    "valor_nominal": 25,
+                    "media_lecturas": 24.9923,
+                    "error": -0.0077,
+                    "incertidumbre_k2": 0.005,
+                    "lecturas": [
+                        24.9947,
+                        24.9914,
+                        24.9883
+                    ]
+                },
+                {
+                    "id_patron": "BP-0004",
+                    "valor_nominal": 50,
+                    "media_lecturas": 50.0093,
+                    "error": 0.0093,
+                    "incertidumbre_k2": 0.0089,
+                    "lecturas": [
+                        50.0064,
+                        50.0125,
+                        50.0088
+                    ]
+                },
+                {
+                    "id_patron": "BP-0007",
+                    "valor_nominal": 75,
+                    "media_lecturas": 75.0005,
+                    "error": 0.0005,
+                    "incertidumbre_k2": 0.0052,
+                    "lecturas": [
+                        75.0052,
+                        75.0,
+                        74.9974
+                    ]
+                },
+                {
+                    "id_patron": "BP-0024",
+                    "valor_nominal": 125,
+                    "media_lecturas": 125.0023,
+                    "error": 0.0023,
+                    "incertidumbre_k2": 0.0087,
+                    "lecturas": [
+                        124.9988,
+                        125.003,
+                        125.0056
+                    ]
+                },
+                {
+                    "id_patron": "BP-0027",
+                    "valor_nominal": 150,
+                    "media_lecturas": 149.9911,
+                    "error": -0.0089,
+                    "incertidumbre_k2": 0.012,
+                    "lecturas": [
+                        149.9899,
+                        149.9884,
+                        149.992
+                    ]
+                }
+            ],
+            "error_maximo": 0.003768,
+            "apto": true
+        },
+        {
+            "fecha_calibracion": "2025-08-16 15:07",
+            "responsable": "tecnico3",
+            "puntos": [
+                {
+                    "id_patron": "BP-0039",
+                    "valor_nominal": 75,
+                    "media_lecturas": 74.9961,
+                    "error": -0.0039,
+                    "incertidumbre_k2": 0.0106,
+                    "lecturas": [
+                        74.9972,
+                        74.9984,
+                        74.9914
+                    ]
+                },
+                {
+                    "id_patron": "BP-0017",
+                    "valor_nominal": 100,
+                    "media_lecturas": 100.0099,
+                    "error": 0.0099,
+                    "incertidumbre_k2": 0.0113,
+                    "lecturas": [
+                        100.0145,
+                        100.0096,
+                        100.0065
+                    ]
+                },
+                {
+                    "id_patron": "BP-0019",
+                    "valor_nominal": 125,
+                    "media_lecturas": 124.99,
+                    "error": -0.01,
+                    "incertidumbre_k2": 0.01,
+                    "lecturas": [
+                        124.9893,
+                        124.9903,
+                        124.9922
+                    ]
+                },
+                {
+                    "id_patron": "BP-0039",
+                    "valor_nominal": 150,
+                    "media_lecturas": 149.998,
+                    "error": -0.002,
+                    "incertidumbre_k2": 0.005,
+                    "lecturas": [
+                        149.9936,
+                        149.9981,
+                        149.9966
+                    ]
+                }
+            ],
+            "error_maximo": 0.001297,
+            "apto": true
+        }
+    ]
+}

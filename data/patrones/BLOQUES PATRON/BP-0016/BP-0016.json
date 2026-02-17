@@ -1,0 +1,12 @@
+{
+    "id": "BP-0016",
+    "familia": "BLOQUES PATRON",
+    "descripcion": "Bloque Patrón Acero 80mm",
+    "valor_nominal": 80,
+    "incertidumbre": 0.000322,
+    "material": "Acero templado",
+    "clase": "0",
+    "periodicidad_meses": 24,
+    "fecha_ultima_calibracion": "2024-09-13",
+    "certificado": "CERT-BP-0016-2025"
+}

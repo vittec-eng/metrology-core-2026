@@ -1,0 +1,12 @@
+{
+    "id": "BP-0001",
+    "familia": "BLOQUES PATRON",
+    "descripcion": "Bloque Patrón Acero 5mm",
+    "valor_nominal": 5,
+    "incertidumbre": 0.000118,
+    "material": "Acero templado",
+    "clase": "0",
+    "periodicidad_meses": 24,
+    "fecha_ultima_calibracion": "2024-08-18",
+    "certificado": "CERT-BP-0001-2025"
+}

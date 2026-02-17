@@ -1,0 +1,12 @@
+{
+    "id": "BP-0038",
+    "familia": "BLOQUES PATRON",
+    "descripcion": "Bloque Patrón Acero 190mm",
+    "valor_nominal": 190,
+    "incertidumbre": 0.000284,
+    "material": "Acero templado",
+    "clase": "0",
+    "periodicidad_meses": 24,
+    "fecha_ultima_calibracion": "2024-08-09",
+    "certificado": "CERT-BP-0038-2025"
+}

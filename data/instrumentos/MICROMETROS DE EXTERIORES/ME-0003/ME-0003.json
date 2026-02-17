@@ -1,0 +1,251 @@
+{
+    "id": "ME-0003",
+    "familia": "MICROMETROS DE EXTERIORES",
+    "descripcion": "Micrómetro de Exteriores 0-25mm #3",
+    "rango_min": "0",
+    "rango_max": "25",
+    "resolucion": 0.0001,
+    "periodicidad_meses": 12,
+    "fecha_compra": "2026-02-17",
+    "fecha_ultima_calibracion": "",
+    "patrones_sugeridos": "BLOQUES PATRON",
+    "incertidumbre_elemento": 0.002,
+    "historial": [
+        {
+            "fecha_calibracion": "2026-02-01 15:07",
+            "responsable": "admin",
+            "puntos": [
+                {
+                    "id_patron": "BP-0039",
+                    "valor_nominal": 10,
+                    "media_lecturas": 9.99977,
+                    "error": -0.00023,
+                    "incertidumbre_k2": 0.002338,
+                    "lecturas": [
+                        9.999004,
+                        10.000658,
+                        10.000664
+                    ]
+                },
+                {
+                    "id_patron": "BP-0036",
+                    "valor_nominal": 15,
+                    "media_lecturas": 14.99887,
+                    "error": -0.00113,
+                    "incertidumbre_k2": 0.001007,
+                    "lecturas": [
+                        14.998235,
+                        14.99848,
+                        14.999405
+                    ]
+                },
+                {
+                    "id_patron": "BP-0029",
+                    "valor_nominal": 20,
+                    "media_lecturas": 19.996731,
+                    "error": -0.003269,
+                    "incertidumbre_k2": 0.002215,
+                    "lecturas": [
+                        19.995772,
+                        19.997644,
+                        19.997296
+                    ]
+                },
+                {
+                    "id_patron": "BP-0034",
+                    "valor_nominal": 25,
+                    "media_lecturas": 24.998697,
+                    "error": -0.001303,
+                    "incertidumbre_k2": 0.002035,
+                    "lecturas": [
+                        24.999676,
+                        24.998827,
+                        24.998554
+                    ]
+                }
+            ],
+            "error_maximo": 0.002876,
+            "apto": true
+        },
+        {
+            "fecha_calibracion": "2025-09-23 15:07",
+            "responsable": "tecnico2",
+            "puntos": [
+                {
+                    "id_patron": "BP-0022",
+                    "valor_nominal": 10,
+                    "media_lecturas": 9.998119,
+                    "error": -0.001881,
+                    "incertidumbre_k2": 0.002793,
+                    "lecturas": [
+                        9.998663,
+                        9.997604,
+                        9.998152
+                    ]
+                },
+                {
+                    "id_patron": "BP-0012",
+                    "valor_nominal": 15,
+                    "media_lecturas": 14.998542,
+                    "error": -0.001458,
+                    "incertidumbre_k2": 0.001318,
+                    "lecturas": [
+                        14.997655,
+                        14.997551,
+                        14.998518
+                    ]
+                },
+                {
+                    "id_patron": "BP-0034",
+                    "valor_nominal": 20,
+                    "media_lecturas": 20.002151,
+                    "error": 0.002151,
+                    "incertidumbre_k2": 0.001979,
+                    "lecturas": [
+                        20.001785,
+                        20.002938,
+                        20.00173
+                    ]
+                },
+                {
+                    "id_patron": "BP-0032",
+                    "valor_nominal": 25,
+                    "media_lecturas": 25.00491,
+                    "error": 0.00491,
+                    "incertidumbre_k2": 0.002242,
+                    "lecturas": [
+                        25.005176,
+                        25.005344,
+                        25.005089
+                    ]
+                }
+            ],
+            "error_maximo": 0.003952,
+            "apto": true
+        },
+        {
+            "fecha_calibracion": "2025-04-18 15:07",
+            "responsable": "tecnico3",
+            "puntos": [
+                {
+                    "id_patron": "BP-0021",
+                    "valor_nominal": 5,
+                    "media_lecturas": 4.996229,
+                    "error": -0.003771,
+                    "incertidumbre_k2": 0.002704,
+                    "lecturas": [
+                        4.995886,
+                        4.996163,
+                        4.997165
+                    ]
+                },
+                {
+                    "id_patron": "BP-0015",
+                    "valor_nominal": 10,
+                    "media_lecturas": 9.999541,
+                    "error": -0.000459,
+                    "incertidumbre_k2": 0.002962,
+                    "lecturas": [
+                        9.998971,
+                        9.999289,
+                        10.000489
+                    ]
+                },
+                {
+                    "id_patron": "BP-0023",
+                    "valor_nominal": 15,
+                    "media_lecturas": 14.99692,
+                    "error": -0.00308,
+                    "incertidumbre_k2": 0.002799,
+                    "lecturas": [
+                        14.995958,
+                        14.996599,
+                        14.995945
+                    ]
+                },
+                {
+                    "id_patron": "BP-0023",
+                    "valor_nominal": 25,
+                    "media_lecturas": 24.995618,
+                    "error": -0.004382,
+                    "incertidumbre_k2": 0.001153,
+                    "lecturas": [
+                        24.996428,
+                        24.996067,
+                        24.994795
+                    ]
+                }
+            ],
+            "error_maximo": 0.004043,
+            "apto": true
+        },
+        {
+            "fecha_calibracion": "2025-01-28 15:07",
+            "responsable": "admin",
+            "puntos": [
+                {
+                    "id_patron": "BP-0033",
+                    "valor_nominal": 5,
+                    "media_lecturas": 4.99692,
+                    "error": -0.00308,
+                    "incertidumbre_k2": 0.001466,
+                    "lecturas": [
+                        4.997417,
+                        4.996005,
+                        4.996065
+                    ]
+                },
+                {
+                    "id_patron": "BP-0002",
+                    "valor_nominal": 10,
+                    "media_lecturas": 9.995324,
+                    "error": -0.004676,
+                    "incertidumbre_k2": 0.001123,
+                    "lecturas": [
+                        9.995467,
+                        9.995841,
+                        9.996187
+                    ]
+                },
+                {
+                    "id_patron": "BP-0031",
+                    "valor_nominal": 15,
+                    "media_lecturas": 14.99921,
+                    "error": -0.00079,
+                    "incertidumbre_k2": 0.001064,
+                    "lecturas": [
+                        14.999733,
+                        14.998215,
+                        14.999123
+                    ]
+                },
+                {
+                    "id_patron": "BP-0040",
+                    "valor_nominal": 20,
+                    "media_lecturas": 20.004505,
+                    "error": 0.004505,
+                    "incertidumbre_k2": 0.001679,
+                    "lecturas": [
+                        20.003644,
+                        20.004019,
+                        20.004108
+                    ]
+                },
+                {
+                    "id_patron": "BP-0003",
+                    "valor_nominal": 25,
+                    "media_lecturas": 24.999588,
+                    "error": -0.000412,
+                    "incertidumbre_k2": 0.0019,
+                    "lecturas": [
+                        24.999342,
+                        24.999194,
+                        24.999072
+                    ]
+                }
+            ],
+            "error_maximo": 0.004763,
+            "apto": true
+        }
+    ]
+}

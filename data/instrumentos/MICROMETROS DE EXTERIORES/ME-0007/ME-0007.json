@@ -1,0 +1,287 @@
+{
+    "id": "ME-0007",
+    "familia": "MICROMETROS DE EXTERIORES",
+    "descripcion": "Micrómetro de Exteriores 0-25mm #7",
+    "rango_min": "0",
+    "rango_max": "25",
+    "resolucion": 0.0001,
+    "periodicidad_meses": 12,
+    "fecha_compra": "2026-02-17",
+    "fecha_ultima_calibracion": "",
+    "patrones_sugeridos": "BLOQUES PATRON",
+    "incertidumbre_elemento": 0.002,
+    "historial": [
+        {
+            "fecha_calibracion": "2026-01-12 15:07",
+            "responsable": "tecnico3",
+            "puntos": [
+                {
+                    "id_patron": "BP-0021",
+                    "valor_nominal": 5,
+                    "media_lecturas": 4.996905,
+                    "error": -0.003095,
+                    "incertidumbre_k2": 0.002357,
+                    "lecturas": [
+                        4.997371,
+                        4.996762,
+                        4.997477
+                    ]
+                },
+                {
+                    "id_patron": "BP-0030",
+                    "valor_nominal": 10,
+                    "media_lecturas": 10.000075,
+                    "error": 7.5e-05,
+                    "incertidumbre_k2": 0.001089,
+                    "lecturas": [
+                        9.999198,
+                        10.001063,
+                        10.000534
+                    ]
+                },
+                {
+                    "id_patron": "BP-0007",
+                    "valor_nominal": 15,
+                    "media_lecturas": 15.003803,
+                    "error": 0.003803,
+                    "incertidumbre_k2": 0.001148,
+                    "lecturas": [
+                        15.004182,
+                        15.004371,
+                        15.003843
+                    ]
+                },
+                {
+                    "id_patron": "BP-0016",
+                    "valor_nominal": 20,
+                    "media_lecturas": 20.000546,
+                    "error": 0.000546,
+                    "incertidumbre_k2": 0.002527,
+                    "lecturas": [
+                        19.999756,
+                        20.000555,
+                        20.000317
+                    ]
+                },
+                {
+                    "id_patron": "BP-0033",
+                    "valor_nominal": 25,
+                    "media_lecturas": 25.00183,
+                    "error": 0.00183,
+                    "incertidumbre_k2": 0.001064,
+                    "lecturas": [
+                        25.001282,
+                        25.002675,
+                        25.002652
+                    ]
+                }
+            ],
+            "error_maximo": 0.0045,
+            "apto": true
+        },
+        {
+            "fecha_calibracion": "2025-12-26 15:07",
+            "responsable": "tecnico1",
+            "puntos": [
+                {
+                    "id_patron": "BP-0001",
+                    "valor_nominal": 5,
+                    "media_lecturas": 5.004138,
+                    "error": 0.004138,
+                    "incertidumbre_k2": 0.001925,
+                    "lecturas": [
+                        5.004831,
+                        5.004701,
+                        5.004691
+                    ]
+                },
+                {
+                    "id_patron": "BP-0035",
+                    "valor_nominal": 10,
+                    "media_lecturas": 9.998949,
+                    "error": -0.001051,
+                    "incertidumbre_k2": 0.001835,
+                    "lecturas": [
+                        9.99961,
+                        9.999621,
+                        9.998071
+                    ]
+                },
+                {
+                    "id_patron": "BP-0015",
+                    "valor_nominal": 15,
+                    "media_lecturas": 15.002956,
+                    "error": 0.002956,
+                    "incertidumbre_k2": 0.001958,
+                    "lecturas": [
+                        15.002708,
+                        15.002242,
+                        15.002535
+                    ]
+                },
+                {
+                    "id_patron": "BP-0033",
+                    "valor_nominal": 20,
+                    "media_lecturas": 20.004123,
+                    "error": 0.004123,
+                    "incertidumbre_k2": 0.00162,
+                    "lecturas": [
+                        20.004982,
+                        20.003915,
+                        20.003853
+                    ]
+                },
+                {
+                    "id_patron": "BP-0035",
+                    "valor_nominal": 25,
+                    "media_lecturas": 25.001539,
+                    "error": 0.001539,
+                    "incertidumbre_k2": 0.001423,
+                    "lecturas": [
+                        25.000548,
+                        25.001121,
+                        25.001501
+                    ]
+                }
+            ],
+            "error_maximo": 0.001617,
+            "apto": true
+        },
+        {
+            "fecha_calibracion": "2025-09-15 15:07",
+            "responsable": "tecnico1",
+            "puntos": [
+                {
+                    "id_patron": "BP-0021",
+                    "valor_nominal": 5,
+                    "media_lecturas": 4.996248,
+                    "error": -0.003752,
+                    "incertidumbre_k2": 0.002707,
+                    "lecturas": [
+                        4.996945,
+                        4.996369,
+                        4.995286
+                    ]
+                },
+                {
+                    "id_patron": "BP-0004",
+                    "valor_nominal": 10,
+                    "media_lecturas": 10.004189,
+                    "error": 0.004189,
+                    "incertidumbre_k2": 0.001336,
+                    "lecturas": [
+                        10.004241,
+                        10.004146,
+                        10.005008
+                    ]
+                },
+                {
+                    "id_patron": "BP-0013",
+                    "valor_nominal": 15,
+                    "media_lecturas": 15.000186,
+                    "error": 0.000186,
+                    "incertidumbre_k2": 0.002032,
+                    "lecturas": [
+                        15.000496,
+                        15.000221,
+                        15.001045
+                    ]
+                },
+                {
+                    "id_patron": "BP-0035",
+                    "valor_nominal": 20,
+                    "media_lecturas": 19.995593,
+                    "error": -0.004407,
+                    "incertidumbre_k2": 0.002256,
+                    "lecturas": [
+                        19.995585,
+                        19.99477,
+                        19.996305
+                    ]
+                },
+                {
+                    "id_patron": "BP-0006",
+                    "valor_nominal": 25,
+                    "media_lecturas": 24.998185,
+                    "error": -0.001815,
+                    "incertidumbre_k2": 0.002167,
+                    "lecturas": [
+                        24.998441,
+                        24.998832,
+                        24.997611
+                    ]
+                }
+            ],
+            "error_maximo": 0.001296,
+            "apto": true
+        },
+        {
+            "fecha_calibracion": "2025-02-14 15:07",
+            "responsable": "tecnico1",
+            "puntos": [
+                {
+                    "id_patron": "BP-0033",
+                    "valor_nominal": 5,
+                    "media_lecturas": 4.996534,
+                    "error": -0.003466,
+                    "incertidumbre_k2": 0.002063,
+                    "lecturas": [
+                        4.996587,
+                        4.99609,
+                        4.995831
+                    ]
+                },
+                {
+                    "id_patron": "BP-0031",
+                    "valor_nominal": 10,
+                    "media_lecturas": 9.997053,
+                    "error": -0.002947,
+                    "incertidumbre_k2": 0.002469,
+                    "lecturas": [
+                        9.996136,
+                        9.997557,
+                        9.997118
+                    ]
+                },
+                {
+                    "id_patron": "BP-0016",
+                    "valor_nominal": 15,
+                    "media_lecturas": 14.997014,
+                    "error": -0.002986,
+                    "incertidumbre_k2": 0.001944,
+                    "lecturas": [
+                        14.996923,
+                        14.997735,
+                        14.996151
+                    ]
+                },
+                {
+                    "id_patron": "BP-0011",
+                    "valor_nominal": 20,
+                    "media_lecturas": 19.999632,
+                    "error": -0.000368,
+                    "incertidumbre_k2": 0.002216,
+                    "lecturas": [
+                        19.999188,
+                        19.999302,
+                        19.999765
+                    ]
+                },
+                {
+                    "id_patron": "BP-0009",
+                    "valor_nominal": 25,
+                    "media_lecturas": 25.000441,
+                    "error": 0.000441,
+                    "incertidumbre_k2": 0.002521,
+                    "lecturas": [
+                        25.000165,
+                        25.001315,
+                        24.999522
+                    ]
+                }
+            ],
+            "error_maximo": 0.004603,
+            "apto": true
+        }
+    ]
+}

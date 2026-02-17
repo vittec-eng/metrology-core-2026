@@ -1,0 +1,12 @@
+{
+    "id": "BP-0032",
+    "familia": "BLOQUES PATRON",
+    "descripcion": "Bloque Patrón Acero 160mm",
+    "valor_nominal": 160,
+    "incertidumbre": 0.000408,
+    "material": "Acero templado",
+    "clase": "0",
+    "periodicidad_meses": 24,
+    "fecha_ultima_calibracion": "2025-01-03",
+    "certificado": "CERT-BP-0032-2025"
+}

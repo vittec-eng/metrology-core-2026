@@ -1,0 +1,12 @@
+{
+    "id": "VP-0003",
+    "familia": "VARILLAS PATRON",
+    "descripcion": "Varilla Patrón Acero 120mm",
+    "valor_nominal": 120,
+    "incertidumbre": 0.000345,
+    "material": "Acero templado",
+    "clase": "0",
+    "periodicidad_meses": 24,
+    "fecha_ultima_calibracion": "2024-07-29",
+    "certificado": "CERT-VP-0003-2025"
+}

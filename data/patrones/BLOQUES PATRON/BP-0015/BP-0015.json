@@ -1,0 +1,12 @@
+{
+    "id": "BP-0015",
+    "familia": "BLOQUES PATRON",
+    "descripcion": "Bloque Patrón Acero 75mm",
+    "valor_nominal": 75,
+    "incertidumbre": 0.000439,
+    "material": "Acero templado",
+    "clase": "0",
+    "periodicidad_meses": 24,
+    "fecha_ultima_calibracion": "2026-01-16",
+    "certificado": "CERT-BP-0015-2025"
+}

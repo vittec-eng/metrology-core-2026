@@ -1,0 +1,12 @@
+{
+    "id": "BP-0025",
+    "familia": "BLOQUES PATRON",
+    "descripcion": "Bloque Patrón Acero 125mm",
+    "valor_nominal": 125,
+    "incertidumbre": 0.000307,
+    "material": "Acero templado",
+    "clase": "0",
+    "periodicidad_meses": 24,
+    "fecha_ultima_calibracion": "2025-07-10",
+    "certificado": "CERT-BP-0025-2025"
+}

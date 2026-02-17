@@ -1,0 +1,12 @@
+{
+    "id": "BP-0019",
+    "familia": "BLOQUES PATRON",
+    "descripcion": "Bloque Patrón Acero 95mm",
+    "valor_nominal": 95,
+    "incertidumbre": 0.000275,
+    "material": "Acero templado",
+    "clase": "0",
+    "periodicidad_meses": 24,
+    "fecha_ultima_calibracion": "2024-10-09",
+    "certificado": "CERT-BP-0019-2025"
+}

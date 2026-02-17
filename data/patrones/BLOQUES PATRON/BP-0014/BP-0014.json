@@ -1,0 +1,12 @@
+{
+    "id": "BP-0014",
+    "familia": "BLOQUES PATRON",
+    "descripcion": "Bloque Patrón Acero 70mm",
+    "valor_nominal": 70,
+    "incertidumbre": 0.000212,
+    "material": "Acero templado",
+    "clase": "0",
+    "periodicidad_meses": 24,
+    "fecha_ultima_calibracion": "2024-09-29",
+    "certificado": "CERT-BP-0014-2025"
+}

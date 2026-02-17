@@ -1,0 +1,263 @@
+{
+    "id": "PR-001",
+    "familia": "PIES DE REY",
+    "descripcion": "Pie de Rey 0-150mm #1",
+    "rango_min": "0",
+    "rango_max": "150",
+    "resolucion": 0.01,
+    "periodicidad_meses": 12,
+    "fecha_compra": "2026-02-17",
+    "fecha_ultima_calibracion": "",
+    "patrones_sugeridos": "BLOQUES PATRON",
+    "incertidumbre_elemento": 0.02,
+    "historial": [
+        {
+            "fecha_calibracion": "2025-12-22 15:07",
+            "responsable": "admin",
+            "puntos": [
+                {
+                    "id_patron": "BP-0032",
+                    "valor_nominal": 25,
+                    "media_lecturas": 24.9951,
+                    "error": -0.0049,
+                    "incertidumbre_k2": 0.0094,
+                    "lecturas": [
+                        24.9928,
+                        24.9977,
+                        24.991
+                    ]
+                },
+                {
+                    "id_patron": "BP-0016",
+                    "valor_nominal": 50,
+                    "media_lecturas": 49.9914,
+                    "error": -0.0086,
+                    "incertidumbre_k2": 0.0108,
+                    "lecturas": [
+                        49.9903,
+                        49.9962,
+                        49.9923
+                    ]
+                },
+                {
+                    "id_patron": "BP-0026",
+                    "valor_nominal": 75,
+                    "media_lecturas": 75.0017,
+                    "error": 0.0017,
+                    "incertidumbre_k2": 0.0063,
+                    "lecturas": [
+                        75.0012,
+                        74.9987,
+                        75.0043
+                    ]
+                },
+                {
+                    "id_patron": "BP-0023",
+                    "valor_nominal": 100,
+                    "media_lecturas": 100.0074,
+                    "error": 0.0074,
+                    "incertidumbre_k2": 0.0107,
+                    "lecturas": [
+                        100.0066,
+                        100.0085,
+                        100.0123
+                    ]
+                },
+                {
+                    "id_patron": "BP-0030",
+                    "valor_nominal": 150,
+                    "media_lecturas": 150.0098,
+                    "error": 0.0098,
+                    "incertidumbre_k2": 0.0064,
+                    "lecturas": [
+                        150.0108,
+                        150.0121,
+                        150.0116
+                    ]
+                }
+            ],
+            "error_maximo": 0.003146,
+            "apto": true
+        },
+        {
+            "fecha_calibracion": "2025-12-10 15:07",
+            "responsable": "tecnico2",
+            "puntos": [
+                {
+                    "id_patron": "BP-0002",
+                    "valor_nominal": 25,
+                    "media_lecturas": 24.9981,
+                    "error": -0.0019,
+                    "incertidumbre_k2": 0.0095,
+                    "lecturas": [
+                        24.9987,
+                        25.0018,
+                        24.9943
+                    ]
+                },
+                {
+                    "id_patron": "BP-0012",
+                    "valor_nominal": 75,
+                    "media_lecturas": 74.9978,
+                    "error": -0.0022,
+                    "incertidumbre_k2": 0.0052,
+                    "lecturas": [
+                        74.994,
+                        74.9954,
+                        74.9944
+                    ]
+                },
+                {
+                    "id_patron": "BP-0018",
+                    "valor_nominal": 100,
+                    "media_lecturas": 100.0076,
+                    "error": 0.0076,
+                    "incertidumbre_k2": 0.007,
+                    "lecturas": [
+                        100.0038,
+                        100.0095,
+                        100.0077
+                    ]
+                },
+                {
+                    "id_patron": "BP-0001",
+                    "valor_nominal": 125,
+                    "media_lecturas": 124.9918,
+                    "error": -0.0082,
+                    "incertidumbre_k2": 0.0058,
+                    "lecturas": [
+                        124.9871,
+                        124.9924,
+                        124.9891
+                    ]
+                },
+                {
+                    "id_patron": "BP-0040",
+                    "valor_nominal": 150,
+                    "media_lecturas": 150.0058,
+                    "error": 0.0058,
+                    "incertidumbre_k2": 0.0127,
+                    "lecturas": [
+                        150.0025,
+                        150.002,
+                        150.0053
+                    ]
+                }
+            ],
+            "error_maximo": 0.002142,
+            "apto": true
+        },
+        {
+            "fecha_calibracion": "2025-07-14 15:07",
+            "responsable": "tecnico3",
+            "puntos": [
+                {
+                    "id_patron": "BP-0012",
+                    "valor_nominal": 25,
+                    "media_lecturas": 24.9903,
+                    "error": -0.0097,
+                    "incertidumbre_k2": 0.0149,
+                    "lecturas": [
+                        24.9907,
+                        24.9854,
+                        24.9884
+                    ]
+                },
+                {
+                    "id_patron": "BP-0027",
+                    "valor_nominal": 50,
+                    "media_lecturas": 49.9964,
+                    "error": -0.0036,
+                    "incertidumbre_k2": 0.0075,
+                    "lecturas": [
+                        49.9994,
+                        49.9938,
+                        49.9986
+                    ]
+                },
+                {
+                    "id_patron": "BP-0028",
+                    "valor_nominal": 75,
+                    "media_lecturas": 74.9982,
+                    "error": -0.0018,
+                    "incertidumbre_k2": 0.0082,
+                    "lecturas": [
+                        74.994,
+                        74.9934,
+                        74.9949
+                    ]
+                },
+                {
+                    "id_patron": "BP-0022",
+                    "valor_nominal": 100,
+                    "media_lecturas": 100.0086,
+                    "error": 0.0086,
+                    "incertidumbre_k2": 0.0114,
+                    "lecturas": [
+                        100.0117,
+                        100.0038,
+                        100.0113
+                    ]
+                },
+                {
+                    "id_patron": "BP-0028",
+                    "valor_nominal": 150,
+                    "media_lecturas": 149.9936,
+                    "error": -0.0064,
+                    "incertidumbre_k2": 0.0118,
+                    "lecturas": [
+                        149.9891,
+                        149.9971,
+                        149.9959
+                    ]
+                }
+            ],
+            "error_maximo": 0.0037,
+            "apto": false
+        },
+        {
+            "fecha_calibracion": "2025-02-26 15:07",
+            "responsable": "tecnico1",
+            "puntos": [
+                {
+                    "id_patron": "BP-0032",
+                    "valor_nominal": 50,
+                    "media_lecturas": 49.9922,
+                    "error": -0.0078,
+                    "incertidumbre_k2": 0.0066,
+                    "lecturas": [
+                        49.9929,
+                        49.9944,
+                        49.9923
+                    ]
+                },
+                {
+                    "id_patron": "BP-0011",
+                    "valor_nominal": 75,
+                    "media_lecturas": 75.0028,
+                    "error": 0.0028,
+                    "incertidumbre_k2": 0.0099,
+                    "lecturas": [
+                        74.9993,
+                        75.0021,
+                        75.0009
+                    ]
+                },
+                {
+                    "id_patron": "BP-0025",
+                    "valor_nominal": 100,
+                    "media_lecturas": 100.0022,
+                    "error": 0.0022,
+                    "incertidumbre_k2": 0.0072,
+                    "lecturas": [
+                        99.9991,
+                        100.0051,
+                        100.0053
+                    ]
+                }
+            ],
+            "error_maximo": 0.004031,
+            "apto": true
+        }
+    ]
+}

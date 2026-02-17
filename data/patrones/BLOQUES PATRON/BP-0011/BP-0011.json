@@ -1,0 +1,12 @@
+{
+    "id": "BP-0011",
+    "familia": "BLOQUES PATRON",
+    "descripcion": "Bloque Patrón Acero 55mm",
+    "valor_nominal": 55,
+    "incertidumbre": 0.000332,
+    "material": "Acero templado",
+    "clase": "0",
+    "periodicidad_meses": 24,
+    "fecha_ultima_calibracion": "2025-05-19",
+    "certificado": "CERT-BP-0011-2025"
+}

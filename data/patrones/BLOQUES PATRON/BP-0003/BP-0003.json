@@ -1,0 +1,12 @@
+{
+    "id": "BP-0003",
+    "familia": "BLOQUES PATRON",
+    "descripcion": "Bloque Patrón Acero 15mm",
+    "valor_nominal": 15,
+    "incertidumbre": 0.000258,
+    "material": "Acero templado",
+    "clase": "0",
+    "periodicidad_meses": 24,
+    "fecha_ultima_calibracion": "2025-03-26",
+    "certificado": "CERT-BP-0003-2025"
+}

@@ -1,0 +1,12 @@
+{
+    "id": "BP-0020",
+    "familia": "BLOQUES PATRON",
+    "descripcion": "Bloque Patrón Acero 100mm",
+    "valor_nominal": 100,
+    "incertidumbre": 0.000156,
+    "material": "Acero templado",
+    "clase": "0",
+    "periodicidad_meses": 24,
+    "fecha_ultima_calibracion": "2025-03-13",
+    "certificado": "CERT-BP-0020-2025"
+}

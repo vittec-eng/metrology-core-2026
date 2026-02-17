@@ -1,0 +1,12 @@
+{
+    "id": "VP-0005",
+    "familia": "VARILLAS PATRON",
+    "descripcion": "Varilla Patrón Acero 200mm",
+    "valor_nominal": 200,
+    "incertidumbre": 0.000467,
+    "material": "Acero templado",
+    "clase": "0",
+    "periodicidad_meses": 24,
+    "fecha_ultima_calibracion": "2025-06-20",
+    "certificado": "CERT-VP-0005-2025"
+}

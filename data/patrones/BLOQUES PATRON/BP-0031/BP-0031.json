@@ -1,0 +1,12 @@
+{
+    "id": "BP-0031",
+    "familia": "BLOQUES PATRON",
+    "descripcion": "Bloque Patrón Acero 155mm",
+    "valor_nominal": 155,
+    "incertidumbre": 0.000221,
+    "material": "Acero templado",
+    "clase": "0",
+    "periodicidad_meses": 24,
+    "fecha_ultima_calibracion": "2025-09-19",
+    "certificado": "CERT-BP-0031-2025"
+}

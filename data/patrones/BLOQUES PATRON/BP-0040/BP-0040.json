@@ -1,0 +1,12 @@
+{
+    "id": "BP-0040",
+    "familia": "BLOQUES PATRON",
+    "descripcion": "Bloque Patrón Acero 200mm",
+    "valor_nominal": 200,
+    "incertidumbre": 0.000342,
+    "material": "Acero templado",
+    "clase": "0",
+    "periodicidad_meses": 24,
+    "fecha_ultima_calibracion": "2025-02-06",
+    "certificado": "CERT-BP-0040-2025"
+}
