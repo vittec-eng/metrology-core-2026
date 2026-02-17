@@ -168,7 +168,9 @@ Para reportar problemas o solicitar mejoras:
 
 ## 📄 Licencia
 
-Este software es propiedad interna y está sujeto a las políticas de la organización.
+Este proyecto está bajo la licencia GNU GPL v3.
+​Libertad de uso: Puedes clonar, estudiar y modificar el código libremente.
+​Derivación responsable: Si modificas este software y lo distribues, debes mantener la misma licencia y compartir el código fuente de tus cambios.
 
 ## 👥 Desarrollo
 
