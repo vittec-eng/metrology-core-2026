@@ -71,12 +71,12 @@ python main.py
 - Auditoría del sistema
 - Restauración de integridad
 
-### Operario
+### tecnicos
 - Calibración de instrumentos
 - Gestión de datos de calibración
 - Generación de informes
 
-### Visor
+### visor
 - Solo consulta de datos
 - Sin capacidad de modificación
 
